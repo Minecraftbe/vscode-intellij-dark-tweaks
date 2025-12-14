@@ -1,5 +1,9 @@
 # Personal VS Code IntelliJ Dark Theme Tweaks
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red)](README_zh.md)
+
+
 > ⚠️ The content of this repository is **personal configuration for my own use**, provided for learning and reference only. Compatibility and long-term maintenance are not guaranteed.
 
 ## Introduction
@@ -25,5 +29,6 @@ This project contains selected configurations extracted from my VS Code `setting
 No specific open-source license applies. You are free to reference, modify, or use any part of this content, but the author assumes no liability whatsoever.
 
 ---
+
 
 ✨ Feel free to discuss, but please understand that this is a private configuration and **feature requests or issue reports will not be accepted**.
