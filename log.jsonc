@@ -1,0 +1,47 @@
+{
+  //This color scheme references the palettes of One Dark and the official VS Code dark theme.
+  "editor.tokenColorCustomizations": {
+    "[IntelliJ IDEA New UI Dark]": {
+      "textMateRules": [
+        {
+          "scope": "log.info",
+          "settings": {
+            "foreground": "#6AAB73"
+          }
+        },
+        {
+          "scope": "log.warning",
+          "settings": {
+            "foreground": "#E5C07B"
+          }
+        },
+        {
+          "scope": "log.debug",
+          "settings": {
+            "foreground": "#569CD6"
+          }
+        },
+        {
+          "scope": "log.error",
+          "settings": {
+            "foreground": "#E06C75",
+            "fontStyle": "bold underline"
+          }
+        },
+        {
+          "scope": "log.constant",
+          "settings": {
+            "foreground": "#569CD6",
+            "fontStyle": "italic"
+          }
+        },
+        {
+          "scope": "log.date",
+          "settings": {
+            "foreground": "#6AAB73"
+          }
+        }
+      ]
+    }
+  }
+}
