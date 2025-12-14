@@ -1,5 +1,8 @@
 # 自用 VS Code IntelliJ 暗色主题微调
 
+[![English](https://img.shields.io/badge/lang-English-blue)](README.md)
+[![中文](https://img.shields.io/badge/lang-中文-red)](README_zh.md)
+
 > ⚠️ 本仓库内容为**个人自用配置**，仅供学习与参考。不保证兼容性或长期维护。
 
 ## 简介
@@ -52,5 +55,6 @@
 无特定开源协议。你可以自由参考、修改或使用其中的内容，但作者不承担任何责任。
 
 ---
+
 
 ✨ 欢迎交流，但请理解此为私人配置，**不接受功能请求或 Issue 报告**。
